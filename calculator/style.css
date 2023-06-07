@@ -1,0 +1,33 @@
+.calc{
+    width: 400px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 100px;
+    background: rgb(191, 173, 173);
+    border-radius: 10px;
+}
+
+#screen{
+    margin: 15px;
+    width: 363px;
+    height: 80px;
+    border-radius: 10px;
+    pointer-events: none; /*act as a screen*/
+}
+
+.buttons{
+    padding: 20px;
+    margin-top: 100p;
+
+}
+
+.btn{
+    width: 67px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 10px;
+    border-color: rgb(184, 202, 216);
+    background: rgb(224, 228, 231);
+}
+
+
